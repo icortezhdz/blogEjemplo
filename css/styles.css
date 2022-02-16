@@ -40,3 +40,10 @@ font-size: 0.8em ;
 #container h1{
     font-size: 20px;
 }
+
+#footer {
+    background-color: lightblue;
+    text-align: center;
+    color: gray;
+    padding: 00.5em;
+}
