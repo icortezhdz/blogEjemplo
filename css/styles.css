@@ -1,15 +1,14 @@
 body{
-    color: white;
-    text-align: left;
-    font-family: "courier";
+    background: white;
+    color: gray;
+    text-align: center;
+    font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 
-html{
-    background-color: black;
-}
+
 
 #container{
     width: 70%;
@@ -20,7 +19,7 @@ html{
 } 
 
 #cabecera{
-    background: #33a;
+    background: lightcoral;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
@@ -32,6 +31,11 @@ html{
 padding:  0 0 0 1em;
 font-weight: normal;
 font-size: 0.8em ;
+}
+
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #container h1{
