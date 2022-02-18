@@ -41,6 +41,11 @@ font-size: 0.8em ;
     font-size: 20px;
 }
 
+#container #post #foto{
+    width: 500px;
+}
+
+
 #footer {
     background-color: lightblue;
     text-align: center;
